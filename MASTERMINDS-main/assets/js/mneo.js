@@ -1,5 +1,0 @@
-$("#mneo").load(function(){
-
-
-});
-
