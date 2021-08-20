@@ -10,3 +10,13 @@ TEAM MEMBERS-
               3)SANMAY KULKARNI
               
               4)GAURAV PATIL
+              
+Repository Links-
+
+Masterminds:
+https://github.com/Hackthonteam/MASTERMINDS
+
+Chatting Page:
+https://github.com/Hackthonteam/chatting-app
+
+Website Link:
