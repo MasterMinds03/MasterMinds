@@ -20,3 +20,4 @@ Chatting Page:
 https://github.com/Hackthonteam/chatting-app
 
 Website Link:
+https://hackthonteam.github.io/MASTERMINDS/
