@@ -16,8 +16,5 @@ Repository Links-
 Masterminds:
 https://github.com/Hackthonteam/MASTERMINDS
 
-Chatting Page:
-https://github.com/Hackthonteam/chatting-app
-
 Website Link:
 https://hackthonteam.github.io/MASTERMINDS/
